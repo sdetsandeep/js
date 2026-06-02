@@ -6,4 +6,4 @@ let num2 = 5;
 
 let remainder = num1 % num2;
 
-console.log("Remainder is  =", remainder);
+console.log(" The .. Remainder is  =", remainder);
