@@ -6,4 +6,5 @@ let num1 = 17;
 let sqr = num1*num1;
 
 
-console.log(" The .. Squqre is  =", sqr);
+console.log(" The .. Squqre  ...  is  =", sqr);
+
