@@ -13,8 +13,10 @@
 
 11	null_var.js	Assign null to a variable and print it along with its typeof..  - Done
 
-12	string_concat.js	Concatenate two strings using + operator and print the result.
+12	string_concat.js	Concatenate two strings using + operator and print the result. -Done
+
 13	template_literal.js	Use template literals (backticks) to print a formatted sentence with variables.
+
 14	swap_no_third.js	Swap the values of two variables without using a third variable.
 15	swap_with_third.js	Swap the values of two variables using a third temporary variable.
 16	multi_console_log.js	Print multiple variables in a single console.log() statement.
