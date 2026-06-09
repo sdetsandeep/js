@@ -1,7 +1,7 @@
 Sr. No.	File Name	Program Detail / Question
-1	hello_world.js	Write a JavaScript program to print "Hello World" on the console.
-2	print_info.js	Write a program to print your name, age, and city using variables.
-3	declare_vars.js	Declare two variables, assign values to them, and print both.
+1	hello_world.js	Write a JavaScript program to print "Hello World" on the console.- Done 
+2	print_info.js	Write a program to print your name, age, and city using variables.  - Done 
+3	declare_vars.js	Declare two variables, assign values to them, and print both.- Done
 4	var_let_const.js	Declare variables using var, let, and const and observe their differences.
 5	store_integer.js	Store an integer value in a variable and print it.
 6	store_float.js	Store a floating-point number in a variable and print it.
