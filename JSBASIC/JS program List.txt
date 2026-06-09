@@ -1,15 +1,18 @@
-Sr. No.	File Name	Program Detail / Question
 1	hello_world.js	Write a JavaScript program to print "Hello World" on the console.- Done 
 2	print_info.js	Write a program to print your name, age, and city using variables.  - Done 
 3	declare_vars.js	Declare two variables, assign values to them, and print both.- Done
-4	var_let_const.js	Declare variables using var, let, and const and observe their differences.
-5	store_integer.js	Store an integer value in a variable and print it.
-6	store_float.js	Store a floating-point number in a variable and print it.
-7	store_string.js	Store a string value in a variable and print it.
-8	store_boolean.js	Store a boolean value (true/false) in a variable and print it.
-9	typeof_check.js	Use typeof operator to print the data type of different variables.
-10	undefined_var.js	Create a variable without assigning a value and print its output.
-11	null_var.js	Assign null to a variable and print it along with its typeof.
+4	var_let_const.js	Declare variables using var, let, and const and observe their differences.- Done
+5	store_integer.js	Store an integer value in a variable and print it.- Done
+6	store_float.js	Store a floating-point number in a variable and print it.- Done
+7	store_string.js	Store a string value in a variable and print it. - Done
+8	store_boolean.js	Store a boolean value (true/false) in a variable and print it..  - Done
+
+9	typeof_check.js	Use typeof operator to print the data type of different variables. .  - Done
+
+10	undefined_var.js	Create a variable without assigning a value and print its output..  - Done
+
+11	null_var.js	Assign null to a variable and print it along with its typeof..  - Done
+
 12	string_concat.js	Concatenate two strings using + operator and print the result.
 13	template_literal.js	Use template literals (backticks) to print a formatted sentence with variables.
 14	swap_no_third.js	Swap the values of two variables without using a third variable.
