@@ -1,0 +1,238 @@
+Excellent idea. If you solve these yourself, your JavaScript fundamentals will become much stronger.
+
+# JavaScript Practice Questions (Basics to Arrays) – 200 Programs
+
+## Part 1: Variables and Basic Output (1–20)
+
+1. Write a JavaScript program to print "Hello World".
+2. Write a program to print your name, age, and city.
+3. Declare two variables and print their values.
+4. Declare variables using `var`, `let`, and `const`.
+5. Store an integer in a variable and print it.
+6. Store a floating-point number and print it.
+7. Store a string and print it.
+8. Store a boolean value and print it.
+9. Print the data type of different variables using `typeof`.
+10. Create an undefined variable and print it.
+11. Assign `null` to a variable and print it.
+12. Concatenate two strings and print the result.
+13. Use template literals to print a formatted sentence.
+14. Swap the values of two variables without using a third variable.
+15. Swap the values of two variables using a third variable.
+16. Print multiple variables in a single `console.log()`.
+17. Declare a constant and try to modify it.
+18. Store a very large number and print it.
+19. Store a scientific notation number and print it.
+20. Print a multiline string.
+
+---
+
+# Part 2: Arithmetic Operators (21–40)
+
+21. Write a program to add two numbers.
+22. Write a program to subtract two numbers.
+23. Write a program to multiply two numbers.
+24. Write a program to divide two numbers.
+25. Find the remainder of two numbers.
+26. Calculate the square of a number.
+27. Calculate the cube of a number.
+28. Calculate the power of a number using `**`.
+29. Increment a variable using `++`.
+30. Decrement a variable using `--`.
+31. Use `+=` to add a value.
+32. Use `-=` to subtract a value.
+33. Use `*=` to multiply a value.
+34. Use `/=` to divide a value.
+35. Calculate the average of three numbers.
+36. Find the area of a rectangle.
+37. Find the perimeter of a rectangle.
+38. Find the area of a circle.
+39. Convert Celsius to Fahrenheit.
+40. Convert Fahrenheit to Celsius.
+
+---
+
+# Part 3: Comparison and Logical Operators (41–60)
+
+41. Compare two numbers using `==`.
+42. Compare two numbers using `===`.
+43. Compare two numbers using `!=`.
+44. Compare two numbers using `!==`.
+45. Check whether one number is greater than another.
+46. Check whether one number is less than another.
+47. Check whether a number is greater than or equal to another.
+48. Check whether a number is less than or equal to another.
+49. Use logical AND (`&&`) with two conditions.
+50. Use logical OR (`||`) with two conditions.
+51. Use logical NOT (`!`) on a boolean.
+52. Check if a number lies between 10 and 100.
+53. Check whether both numbers are positive.
+54. Check whether at least one number is negative.
+55. Check if a person is eligible to vote.
+56. Check if a person can apply for a driving license.
+57. Check if a number is divisible by both 3 and 5.
+58. Check if a number is divisible by either 7 or 11.
+59. Compare the ages of two people.
+60. Use the ternary operator to find the larger number.
+
+---
+
+# Part 4: If-Else Statements (61–90)
+
+61. Check whether a number is even or odd.
+62. Check whether a number is positive or negative.
+63. Check whether a number is zero.
+64. Find the largest of two numbers.
+65. Find the smallest of two numbers.
+66. Find the largest of three numbers.
+67. Find the smallest of three numbers.
+68. Check whether a year is a leap year.
+69. Check whether a character is a vowel.
+70. Check whether a character is a consonant.
+71. Check whether a character is an alphabet.
+72. Check whether a character is uppercase or lowercase.
+73. Check whether a character is a digit.
+74. Determine whether a student has passed or failed.
+75. Assign grades based on marks.
+76. Check voting eligibility based on age.
+77. Calculate income tax based on salary slabs.
+78. Calculate electricity bill based on units consumed.
+79. Check whether a triangle is valid.
+80. Determine the type of a triangle.
+81. Find whether a number is divisible by 2 and 3.
+82. Check if a person is a minor or adult.
+83. Find whether a number is a multiple of 10.
+84. Calculate discount based on purchase amount.
+85. Find the absolute value of a number.
+86. Check if a password matches.
+87. Validate a username and password.
+88. Determine BMI category.
+89. Check if a number is a perfect square.
+90. Determine whether a person can donate blood.
+
+---
+
+# Part 5: Switch Case (91–105)
+
+91. Display the day of the week using a number.
+92. Display the month name using a number.
+93. Create a simple calculator using switch.
+94. Display grade using switch.
+95. Display season based on month.
+96. Display fruit price using switch.
+97. Display menu options.
+98. Create an ATM menu.
+99. Display browser name.
+100. Display traffic signal action.
+101. Convert number to weekday.
+102. Convert number to month.
+103. Display subject name based on code.
+104. Display language based on option.
+105. Create a restaurant menu system.
+
+---
+
+# Part 6: Loops (106–150)
+
+106. Print numbers from 1 to 10.
+107. Print numbers from 10 to 1.
+108. Print even numbers from 1 to 100.
+109. Print odd numbers from 1 to 100.
+110. Find the sum of numbers from 1 to 100.
+111. Find the factorial of a number.
+112. Print the multiplication table of a number.
+113. Reverse a number.
+114. Count the digits in a number.
+115. Find the sum of digits.
+116. Find the product of digits.
+117. Find the largest digit.
+118. Find the smallest digit.
+119. Check whether a number is a palindrome.
+120. Check whether a number is an Armstrong number.
+121. Check whether a number is prime.
+122. Print all prime numbers from 1 to 100.
+123. Generate the Fibonacci series.
+124. Find the GCD of two numbers.
+125. Find the LCM of two numbers.
+126. Calculate the power of a number using loops.
+127. Print a square star pattern.
+128. Print a right triangle star pattern.
+129. Print an inverted triangle pattern.
+130. Print a pyramid pattern.
+131. Print a reverse pyramid pattern.
+132. Print Floyd’s triangle.
+133. Print a number triangle.
+134. Print an alphabet triangle.
+135. Print a hollow square.
+136. Print a hollow rectangle.
+137. Print a diamond pattern.
+138. Count vowels in a string.
+139. Count consonants in a string.
+140. Count spaces in a sentence.
+141. Count words in a sentence.
+142. Reverse a string using a loop.
+143. Print each character of a string.
+144. Count uppercase letters.
+145. Count lowercase letters.
+146. Print ASCII values of characters.
+147. Find the sum of odd numbers.
+148. Find the sum of even numbers.
+149. Print all multiples of 5.
+150. Print all multiples of 7.
+
+---
+
+# Part 7: Arrays (151–200)
+
+151. Create an array and print all elements.
+152. Find the sum of array elements.
+153. Find the average of array elements.
+154. Find the largest element in an array.
+155. Find the smallest element in an array.
+156. Reverse an array.
+157. Copy one array into another.
+158. Sort an array in ascending order.
+159. Sort an array in descending order.
+160. Search for an element in an array.
+161. Count even numbers in an array.
+162. Count odd numbers in an array.
+163. Merge two arrays.
+164. Remove duplicate elements from an array.
+165. Find the second largest element.
+166. Find the second smallest element.
+167. Rotate an array to the left.
+168. Rotate an array to the right.
+169. Insert an element at a given position.
+170. Delete an element from a given position.
+171. Count the frequency of each element.
+172. Check whether an array is sorted.
+173. Find the maximum difference between two elements.
+174. Find common elements between two arrays.
+175. Find unique elements in an array.
+176. Find the missing number in an array.
+177. Find all pairs with a given sum.
+178. Check whether an array is a palindrome.
+179. Find duplicate elements.
+180. Find the index of an element.
+181. Replace an element in an array.
+182. Sum only positive numbers.
+183. Sum only negative numbers.
+184. Separate even and odd elements.
+185. Shuffle an array randomly.
+186. Flatten a nested array.
+187. Reverse an array without using `reverse()`.
+188. Sort an array without using `sort()`.
+189. Find the median of an array.
+190. Find the mode of an array.
+191. Find the minimum difference between elements.
+192. Find the maximum product of two elements.
+193. Find the intersection of two arrays.
+194. Find the union of two arrays.
+195. Remove all occurrences of a given element.
+196. Move all zeros to the end of an array.
+197. Count occurrences of a specific value.
+198. Check if two arrays are equal.
+199. Split an array into two equal halves.
+200. Find the cumulative sum of an array.
+
+This sequence is arranged from **easy to intermediate difficulty**, making it suitable for building a solid JavaScript foundation before moving on to functions, objects, DOM manipulation, and asynchronous programming.
