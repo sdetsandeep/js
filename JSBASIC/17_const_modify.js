@@ -3,4 +3,6 @@
  const name ="Sandeep";
 
  console.log(" Constant varibla name value is  :", name);
- 
+
+
+ name= "Ankur";
