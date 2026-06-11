@@ -1,0 +1,201 @@
+Sr. No.	File Name	Program Detail / Question
+1	hello_world.java	Write a JavaScript program to print "Hello World" on the console.
+2	print_info.java	Write a program to print your name, age, and city using variables.  
+3	declare_vars.java	Declare two variables, assign values to them, and print both.
+4	var_let_const.java	Declare variables using var, let, and const and observe their differences.
+5	store_integer.java	Store an integer value in a variable and print it.
+6	store_float.java	Store a floating-point number in a variable and print it.
+7	store_string.java	Store a string value in a variable and print it. 
+8	store_boolean.java	Store a boolean value (true/false) in a variable and print it..  
+9	typeof_check.java	Use typeof operator to print the data type of different variables. .  
+10	undefined_var.java	Create a variable without assigning a value and print its output..  
+11	null_var.java	Assign null to a variable and print it along with its typeof..  
+12	string_concat.java	Concatenate two strings using + operator and print the result. - 
+13	template_literal.java	Use template literals (backticks) to print a formatted sentence with variables. 
+14	swap_no_third.java	Swap the values of two variables without using a third variable.  
+15	swap_with_third.java	Swap the values of two variables using a third temporary variable.  
+16	multi_console_log.java	Print multiple variables in a single console.log() statement. 
+17	17_const_modify.java	Declare a constant and try to modify it — observe the error.
+18	18_large_number.java	Store a very large number in a variable and print it.
+19	19_sci_notation.java	Store a number in scientific notation (e.g. 5e6) and print it.
+20	20_multiline_string.java	Print a multiline string using template literals or \n escape character.
+21	21_add_two.java	Write a program to add two numbers and print the result.
+22	22_subtract_two.java	Write a program to subtract one number from another.
+23	23_multiply_two.java	Write a program to multiply two numbers.
+24	24_divide_two.java	Write a program to divide two numbers and print the result.
+25	25_remainder.java	Find the remainder when one number is divided by another using % operator.
+26	26_square_num.java	Calculate the square of a given number.
+27	27_cube_num.java	Calculate the cube of a given number.
+28	28_power_operator.java	Calculate the power of a number using the ** exponentiation operator.
+29	29_increment.java	Increment a variable using the ++ operator (both pre and post).
+30	30_decrement.java	Decrement a variable using the -- operator (both pre and post).
+31	31_plus_assign.java	Use += operator to add a value to an existing variable.
+32	32_minus_assign.java	Use -= operator to subtract a value from an existing variable.
+33	33_mul_assign.java	Use *= operator to multiply a variable's value.
+34	34_div_assign.java	Use /= operator to divide a variable's value.
+35	35_average_three.java	Calculate the average of three numbers.
+36	36_rect_area.java	Find the area of a rectangle given its length and breadth.
+37	37_rect_perimeter.java	Find the perimeter of a rectangle given its length and breadth.
+38	38_circle_area.java	Find the area of a circle given its radius using Math.PI.
+39	39_celsius_to_fahr.java	Convert temperature from Celsius to Fahrenheit using the formula.
+40	40_fahr_to_celsius.java	Convert temperature from Fahrenheit to Celsius using the formula.
+41	41_compare_eq.java	Compare two numbers using == (loose equality) and print true/false.
+42	42_compare_strict.java	Compare two values using === (strict equality) and observe the difference.
+43	43_compare_neq.java	Compare two numbers using != operator and print the result.
+44	44_compare_strict_neq.java	Compare two values using !== (strict not equal) operator.
+45	45_greater_than.java	Check whether one number is greater than another using >.
+46	46_less_than.java	Check whether one number is less than another using <.
+47	47_greater_equal.java	Check whether a number is greater than or equal to another using >=.
+48	48_less_equal.java	Check whether a number is less than or equal to another using <=.
+49	49_logical_and.java	Use logical AND (&&) to check if both conditions are true.
+50	50_logical_or.java	Use logical OR (||) to check if at least one condition is true.
+51	51_logical_not.java	Use logical NOT (!) to reverse the value of a boolean.
+52	52_between_10_100.java	Check if a number lies between 10 and 100 (inclusive).
+53	53_both_positive.java	Check whether both of two given numbers are positive.
+54	54_one_negative.java	Check whether at least one of two numbers is negative.
+55	55_vote_eligible.java	Check if a person is eligible to vote based on age (>= 18).
+56	56_driving_license.java	Check if a person can apply for a driving license based on age.
+57	57_div_by_3_and_5.java	Check if a number is divisible by both 3 and 5.
+58	58_div_by_7_or_11.java	Check if a number is divisible by either 7 or 11.
+59	59_compare_ages.java	Compare ages of two people and print who is older.
+60	60_ternary_larger.java	Use the ternary operator to find and print the larger of two numbers.
+61	61_even_odd.java	Check whether a given number is even or odd using if-else.
+62	62_pos_neg.java	Check whether a number is positive, negative, or zero.
+63	63_is_zero.java	Check whether a given number is exactly zero.
+64	64_largest_two.java	Find and print the largest of two numbers using if-else.
+65	65_smallest_two.java	Find and print the smallest of two numbers using if-else.
+66	66_largest_three.java	Find the largest among three numbers using if-else if ladder.
+67	67_smallest_three.java	Find the smallest among three numbers using if-else if ladder.
+68	68_leap_year.java	Check whether a given year is a leap year or not.
+69	69_is_vowel.java	Check whether a given character is a vowel (a, e, i, o, u).
+70	70_is_consonant.java	Check whether a given character is a consonant.
+71	71_is_alphabet.java	Check whether a given character is an alphabet letter.
+72	72_upper_lower.java	Check whether a character is uppercase or lowercase.
+73	73_is_digit.java	Check whether a given character is a digit (0–9).
+74	74_pass_fail.java	Check whether a student has passed or failed based on marks >= 40.
+75	75_grade_assign.java	Assign grade A/B/C/D/F to a student based on their marks.
+76	76_vote_age.java	Check voting eligibility based on age using if-else.
+77	77_income_tax.java	Calculate income tax based on given salary slabs.
+78	78_electricity_bill.java	Calculate electricity bill based on units consumed using slabs.
+79	79_valid_triangle.java	Check whether a triangle is valid given its three sides.
+80	80_triangle_type.java	Determine the type of triangle: equilateral, isosceles, or scalene.
+81	81_div_2_and_3.java	Find whether a number is divisible by both 2 and 3.
+82	82_minor_adult.java	Check if a person is a minor (<18) or an adult (>=18).
+83	83_multiple_of_10.java	Find whether a given number is a multiple of 10.
+84	84_discount_calc.java	Calculate discount percentage based on total purchase amount.
+85	85_absolute_val.java	Find the absolute value of a number without using Math.abs().
+86	86_password_match.java	Check if a entered password matches the stored password.
+87	87_login_validate.java	Validate both username and password and print login status.
+88	88_bmi_category.java	Determine BMI category: Underweight / Normal / Overweight / Obese.
+89	89_perfect_square.java	Check if a number is a perfect square using Math.sqrt().
+90	90_blood_donate.java	Determine whether a person can donate blood based on age and weight.
+91	91_day_of_week.java	Display the day name (Monday–Sunday) based on a number (1–7) using switch.
+92	92_month_name.java	Display the month name based on a number (1–12) using switch.
+93	93_calculator_switch.java	Create a simple calculator (+, -, *, /) using switch case.
+94	94_grade_switch.java	Display grade (A/B/C/D/F) using switch case on marks range.
+95	95_season_month.java	Display season (Summer/Monsoon/Winter) based on month using switch.
+96	96_fruit_price.java	Display the price of a fruit using switch case on fruit name.
+97	97_menu_display.java	Display a menu and print selected option details using switch.
+98	98_atm_menu.java	Create an ATM menu (Balance/Withdraw/Deposit/Exit) using switch.
+99	99_browser_name.java	Display the browser name based on a code input using switch.
+100	100_traffic_signal.java	Display the action (Stop/Ready/Go) for a traffic signal color using switch.
+101	101_num_to_weekday.java	Convert a number (1–7) to its corresponding weekday name.
+102	102_num_to_month.java	Convert a number (1–12) to its corresponding month name.
+103	103_subject_code.java	Display subject name based on a subject code using switch.
+104	104_language_option.java	Display a language name based on a number option using switch.
+105	105_restaurant_menu.java	Create a restaurant menu system — show item and price using switch.
+106	106_print_1_to_10.java	Print numbers from 1 to 10 using a loop.
+107	107_print_10_to_1.java	Print numbers from 10 to 1 in reverse using a loop.
+108	108_even_numbers.java	Print all even numbers from 1 to 100 using a loop.
+109	109_odd_numbers.java	Print all odd numbers from 1 to 100 using a loop.
+110	110_sum_1_to_100.java	Find the sum of all numbers from 1 to 100 using a loop.
+111	111_factorial.java	Find the factorial of a given number using a loop.
+112	112_multiplication_table.java	Print the multiplication table of a given number up to 10.
+113	113_reverse_number.java	Reverse a given number using a while loop (e.g. 1234 → 4321).
+114	114_count_digits.java	Count the number of digits in a given number.
+115	115_sum_digits.java	Find the sum of all digits of a given number.
+116	116_product_digits.java	Find the product of all digits of a given number.
+117	117_largest_digit.java	Find the largest digit in a given number.
+118	118_smallest_digit.java	Find the smallest digit in a given number.
+119	119_palindrome_num.java	Check whether a given number is a palindrome (e.g. 121, 1331).
+120	120_armstrong_num.java	Check whether a number is an Armstrong number (e.g. 153 = 1³+5³+3³).
+121	121_is_prime.java	Check whether a given number is prime or not.
+122	122_all_primes_100.java	Print all prime numbers from 1 to 100.
+123	123_fibonacci.java	Generate and print the Fibonacci series up to n terms.
+124	124_gcd.java	Find the GCD (Greatest Common Divisor) of two numbers using a loop.
+125	125_lcm.java	Find the LCM (Least Common Multiple) of two numbers using a loop.
+126	126_power_loop.java	Calculate the power of a number using a loop (without ** operator).
+127	127_star_square.java	Print a square star pattern of n×n size using nested loops.
+128	128_right_triangle.java	Print a right-angled triangle star pattern using nested loops.
+129	129_inverted_triangle.java	Print an inverted right-triangle star pattern using nested loops.
+130	130_pyramid.java	Print a centered pyramid star pattern using nested loops.
+131	131_reverse_pyramid.java	Print a reverse (inverted) centered pyramid pattern using loops.
+132	132_floyds_triangle.java	Print Floyd's triangle with sequential numbers using nested loops.
+133	133_number_triangle.java	Print a right-triangle pattern filled with row numbers.
+134	134_alphabet_triangle.java	Print a right-triangle pattern filled with alphabets (A, B, C...).
+135	135_hollow_square.java	Print a hollow square border pattern of stars using nested loops.
+136	136_hollow_rect.java	Print a hollow rectangle border pattern of given width and height.
+137	137_diamond.java	Print a full diamond star pattern using loops.
+138	138_count_vowels.java	Count the number of vowels in a given string using a loop.
+139	139_count_consonants.java	Count the number of consonants in a given string using a loop.
+140	140_count_spaces.java	Count the number of spaces in a given sentence using a loop.
+141	141_count_words.java	Count the number of words in a given sentence.
+142	142_reverse_string_loop.java	Reverse a given string using a loop (without built-in reverse).
+143	143_print_chars.java	Print each character of a string one by one using a loop.
+144	144_count_uppercase.java	Count the number of uppercase letters in a given string.
+145	145_count_lowercase.java	Count the number of lowercase letters in a given string.
+146	146_ascii_values.java	Print the ASCII (char code) value of each character in a string.
+147	147_sum_odd.java	Find the sum of all odd numbers from 1 to 100.
+148	148_sum_even.java	Find the sum of all even numbers from 1 to 100.
+149	149_multiples_of_5.java	Print all multiples of 5 from 1 to 100.
+150	150_multiples_of_7.java	Print all multiples of 7 from 1 to 100.
+151	151_array_print.java	Create an array and print all its elements using a loop.
+152	152_array_sum.java	Find the sum of all elements in a given array.
+153	153_array_avg.java	Find the average of all elements in a given array.
+154	154_array_max.java	Find the largest element in an array without using Math.max().
+155	155_array_min.java	Find the smallest element in an array without using Math.min().
+156	156_array_reverse.java	Reverse an array using the built-in reverse() method.
+157	157_array_copy.java	Copy one array into another array.
+158	158_sort_asc.java	Sort an array of numbers in ascending order.
+159	159_sort_desc.java	Sort an array of numbers in descending order.
+160	160_search_element.java	Search for a specific element in an array and print its index.
+161	161_count_even_arr.java	Count how many even numbers are present in an array.
+162	162_count_odd_arr.java	Count how many odd numbers are present in an array.
+163	163_merge_arrays.java	Merge two arrays into one using concat() or spread operator.
+164	164_remove_duplicates.java	Remove duplicate elements from an array using Set or loops.
+165	165_second_largest.java	Find the second largest element in an array.
+166	166_second_smallest.java	Find the second smallest element in an array.
+167	167_rotate_left.java	Rotate an array to the left by one position.
+168	168_rotate_right.java	Rotate an array to the right by one position.
+169	169_insert_element.java	Insert an element at a given position in an array using splice().
+170	170_delete_element.java	Delete an element from a given position in an array using splice().
+171	171_freq_count.java	Count the frequency of each element in an array using an object.
+172	172_is_sorted.java	Check whether a given array is sorted in ascending order.
+173	173_max_diff.java	Find the maximum difference between any two elements in an array.
+174	174_common_elements.java	Find common elements between two arrays (intersection).
+175	175_unique_elements.java	Find elements that appear only in one of two given arrays.
+176	176_missing_number.java	Find the missing number in an array containing 1 to n with one gap.
+177	177_pairs_sum.java	Find all pairs of elements in an array that add up to a given sum.
+178	178_palindrome_arr.java	Check whether a given array reads the same forwards and backwards.
+179	179_find_duplicates.java	Find and print all duplicate elements in an array.
+180	180_index_of_elem.java	Find the index of a specific element in an array using indexOf().
+181	181_replace_element.java	Replace an element at a specific position in an array.
+182	182_sum_positive.java	Calculate the sum of only positive numbers in an array.
+183	183_sum_negative.java	Calculate the sum of only negative numbers in an array.
+184	184_separate_even_odd.java	Separate even and odd elements of an array into two different arrays.
+185	185_shuffle_array.java	Shuffle an array randomly using the Fisher-Yates algorithm.
+186	186_flatten_array.java	Flatten a nested array into a single-level array using flat() or recursion.
+187	187_reverse_no_method.java	Reverse an array without using the built-in reverse() method.
+188	188_sort_no_method.java	Sort an array without using the built-in sort() method (bubble sort).
+189	189_median_array.java	Find the median value of a sorted array.
+190	190_mode_array.java	Find the mode (most frequently occurring element) of an array.
+191	191_min_diff.java	Find the minimum difference between any two elements in an array.
+192	192_max_product.java	Find the maximum product of any two elements in an array.
+193	193_intersection.java	Find the intersection of two arrays (common elements, no duplicates).
+194	194_union.java	Find the union of two arrays (all unique elements from both).
+195	195_remove_occurrences.java	Remove all occurrences of a given value from an array.
+196	196_zeros_to_end.java	Move all zeros in an array to the end while keeping other order intact.
+197	197_count_specific.java	Count how many times a specific value appears in an array.
+198	198_equal_arrays.java	Check if two arrays are equal (same elements in same order).
+199	199_split_half.java	Split an array into two equal halves and print both.
+200	200_cumulative_sum.java	Find the cumulative sum array where each element is sum of all previous.
