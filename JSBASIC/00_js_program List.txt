@@ -1,3 +1,17 @@
+git add 26_square_num.js.js
+
+set GIT_AUTHOR_DATE=2026-06-03T10:00:00
+set GIT_COMMITTER_DATE=2026-06-03T10:00:00
+
+git commit --date="2026-06-03T10:00:00" -m "Added 26_square_num.js"
+
+git push
+
+
+
+
+================== Program List ====================
+
 Sr. No.	File Name	Program Detail / Question
 1	hello_world.js	Write a JavaScript program to print "Hello World" on the console.- Done 
 2	print_info.js	Write a program to print your name, age, and city using variables.  - Done 
