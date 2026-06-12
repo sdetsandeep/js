@@ -1,6 +1,11 @@
+let name = "John";
+let age ;
 
-"use strict";
-let x='s';
-let y=0;
-let z= x/y;
-console.log ("The value of x="+x + "and the value of z = "+z);
+
+// embed a variable
+console.log( `Hello, ${name}!` ); // Hello, John!
+
+// embed an expression
+console.log( `the result is ${1 + 2}` ); // the result is 3
+ console.log ("The vlaue of age is  = "+age);
+ 
