@@ -49,14 +49,11 @@
 <textarea id="code">
 // Write JavaScript here
 
-let a = 10;
-let b = 20;
+let value = true;
+alert(typeof value); // boolean
 
-console.log("Sum =", a + b);
-
-for(let i=1;i<=5;i++){
-    console.log(i);
-}
+value = String(value); // now value is a string "true"
+alert(typeof value); // string
 </textarea>
 
 <br>
