@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>JavaScript Runner</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f4f4f4;
+            padding: 20px;
+        }
+
+        h2 {
+            text-align: center;
+        }
+
+        textarea {
+            width: 100%;
+            height: 300px;
+            font-size: 16px;
+            padding: 10px;
+            resize: vertical;
+        }
+
+        button {
+            margin-top: 10px;
+            padding: 10px 20px;
+            font-size: 18px;
+            cursor: pointer;
+        }
+
+        #output {
+            margin-top: 20px;
+            background: black;
+            color: lime;
+            padding: 10px;
+            min-height: 150px;
+            white-space: pre-wrap;
+            overflow: auto;
+        }
+    </style>
+</head>
+
+<body>
+
+<h2>JavaScript Code Runner</h2>
+
+<textarea id="code">
+// Write JavaScript here
+
+let a = 10;
+let b = 20;
+
+console.log("Sum =", a + b);
+
+for(let i=1;i<=5;i++){
+    console.log(i);
+}
+</textarea>
+
+<br>
+
+<button onclick="runCode()">Run Code</button>
+
+<div id="output"></div>
+
+<script>
+function runCode() {
+
+    const code = document.getElementById("code").value;
+    const output = document.getElementById("output");
+
+    output.textContent = "";
+
+    const oldLog = console.log;
+
+    console.log = function (...args) {
+        output.textContent += args.join(" ") + "\n";
+    };
+
+    try {
+        eval(code);
+    } catch (error) {
+        output.textContent += "Error: " + error.message;
+    }
+
+    console.log = oldLog;
+}
+</script>
+
+</body>
+</html>
