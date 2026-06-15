@@ -34,7 +34,7 @@ if (result === "") {
     } else if (str1.length > str2.length) {
         result = '"' + str1 + '" is greater than "' + str2 + '"';
     } else {
-        result = '"' + str2 + '" is greater than "' + str1 + '"';
+        result = '"' + str2 +  '" is greater than "' + str1 + '"';
     }
 }
 
