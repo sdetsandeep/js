@@ -15,4 +15,4 @@ console.log("Type of num =", typeof num);
 
 let age = Number("an arbitrary string instead of a number");
 
-alert(age); // NaN, conversion failed
+console.log(age); // NaN, conversion failed
