@@ -1,9 +1,8 @@
-let age = 25;
 
-let message =
-    age < 3 ? "Hi Baby" :
-    age < 18 ? "Abhi aap 18 se kam ho" :
-    age == 18 ? "Aap exactly 18 ke ho" :
-    "You are greater than 18";
 
-console.log(message);
+let i=1;
+
+for ( i=1; i<= 10; i++)
+{
+    console.log(i);
+}
