@@ -4,4 +4,4 @@ let b= ["Jugnu", "vinita"];
 
 let c=a.concat(b);
 
-console.log("Concatenated Array is .... "+c)
+console.log("Concatenated Array is .... "+c);
