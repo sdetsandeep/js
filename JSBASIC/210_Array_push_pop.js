@@ -17,3 +17,12 @@ a.push("Node.js");
 a.unshift("Web Development");
 
 console.log(a);
+
+a.pop();
+
+console.log(a);
+
+a.shift();
+
+console.log(a);
+
