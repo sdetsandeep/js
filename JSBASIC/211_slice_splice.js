@@ -26,22 +26,18 @@ console.log(fruits);
 // Splice() Method          .. Remove Element
 console.log ("====================Splice () Method =====================================");
 
-let arr = [10, 20, 30, 40, 50];
+let fruitss = ["Apple", "Mango", "Orange","papaya","Guava","Anar"];
 
-console.log("Before slice:", arr);
+console.log("Original Array Before splice():");
+console.log(fruitss);
 
-let slicedArr = arr.slice(1, 4);
+// element Add karne ke liye 
 
-console.log("Slice Result:", slicedArr);
+//fruitss.splice(1, 0, "Banana");
 
-console.log("After slice:", arr);
+// element remove karne ke liye 
+let removedItems = fruitss.splice(1,2);
 
-console.log("\n====================\n");
+console.log("\nOriginal Array After splice():");
 
-console.log("Before splice:", arr);
-
-let deletedArr = arr.splice(1, 2);
-
-console.log("Deleted Elements:", deletedArr);
-
-console.log("After splice:", arr);
+console.log(fruitss);
